@@ -1,0 +1,26 @@
+"*":
+  core:
+    themes: [
+      "atom-material-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    tabLength: 4
+  "exception-reporting":
+    userId: "735aa7ad-0864-3d2e-caef-e50b7c47736f"
+  minimap:
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      cursorline: true
+      cursorlineDecorationsZIndex: 0
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      selection: true
+      selectionDecorationsZIndex: 0
+  welcome:
+    showOnStartup: false
